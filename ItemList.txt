@@ -1,0 +1,23 @@
+﻿A114 Model 1A Gold
+Taxable
+98.60
+
+
+A634 Model 2A Silver
+Taxable
+73.75
+
+
+C915 Copier Paper 500ct
+Non-Taxable
+37.50
+
+
+P291 Model 4b Platinum
+Taxable
+105.25
+
+
+R458 Model 6A Steel
+Taxable
+50.00
